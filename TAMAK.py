@@ -1,2 +1,2 @@
-import TAMAK
+
 TAMAK.main()
