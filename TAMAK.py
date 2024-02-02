@@ -1,2 +1,1 @@
 import TAMAK
-TAMAK.main()
