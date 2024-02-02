@@ -1,0 +1,2 @@
+import TAMAK
+TAMAK.approval()
