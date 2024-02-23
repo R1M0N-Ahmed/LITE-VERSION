@@ -1,2 +1,1 @@
-# LITE-VERSION
-Asslamu alaikum 🖤💜
+# TAMAK PATA
